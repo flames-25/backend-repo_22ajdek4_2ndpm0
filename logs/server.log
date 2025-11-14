@@ -1,0 +1,31 @@
+INFO:     Will watch for changes in these directories: ['/home/workspace']
+INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+INFO:     Started reloader process [163] using StatReload
+INFO:     Started server process [165]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     172.20.0.1:49880 - "HEAD / HTTP/1.1" 405 Method Not Allowed
+INFO:     172.20.0.1:49888 - "GET /sessions/active HTTP/1.1" 200 OK
+INFO:     172.20.0.1:49924 - "GET /products HTTP/1.1" 200 OK
+INFO:     172.20.0.1:49888 - "GET /sessions/active HTTP/1.1" 200 OK
+INFO:     172.20.0.1:49924 - "GET /products HTTP/1.1" 200 OK
+INFO:     172.20.0.1:49900 - "GET /metrics/summary HTTP/1.1" 200 OK
+INFO:     172.20.0.1:49902 - "GET /activity HTTP/1.1" 200 OK
+INFO:     172.20.0.1:49918 - "GET /customers HTTP/1.1" 200 OK
+INFO:     172.20.0.1:49900 - "GET /activity HTTP/1.1" 200 OK
+INFO:     172.20.0.1:49902 - "GET /customers HTTP/1.1" 200 OK
+INFO:     172.20.0.1:49924 - "GET /metrics/summary HTTP/1.1" 200 OK
+INFO:     172.20.0.1:49932 - "GET /sessions/active HTTP/1.1" 200 OK
+INFO:     172.20.0.1:49932 - "GET /activity HTTP/1.1" 200 OK
+INFO:     172.20.0.1:59748 - "GET /metrics/summary HTTP/1.1" 200 OK
+INFO:     172.20.0.1:59748 - "GET /metrics/summary HTTP/1.1" 200 OK
+INFO:     172.20.0.1:59748 - "GET /sessions/active HTTP/1.1" 200 OK
+INFO:     172.20.0.1:49932 - "GET /activity HTTP/1.1" 200 OK
+INFO:     172.20.0.1:49932 - "GET /metrics/summary HTTP/1.1" 200 OK
+INFO:     172.20.0.1:59748 - "GET /sessions/active HTTP/1.1" 200 OK
+INFO:     172.20.0.1:59754 - "GET /activity HTTP/1.1" 200 OK
+INFO:     172.20.0.1:59754 - "GET /activity HTTP/1.1" 200 OK
+INFO:     172.20.0.1:49932 - "GET /sessions/active HTTP/1.1" 200 OK
+INFO:     172.20.0.1:59748 - "GET /metrics/summary HTTP/1.1" 200 OK
+INFO:     172.20.0.1:59748 - "GET /sessions/active HTTP/1.1" 200 OK
+INFO:     172.20.0.1:49932 - "GET /activity HTTP/1.1" 200 OK
